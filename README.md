@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">
+  <i>Hello Guys!</i>
+</h1>
 
-<!--
-**Shizukaseira/Shizukaseira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```sh
+~/: ./gitfetch.sh
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://avatars.githubusercontent.com/u/170367998?v=4" width="290" />
+
+```haskell
+shizukaseira@git
+------------------------------
+country  • Japan
+age      • 16
+
+os       • Windows 11 x64
+
+status   • student
+learning • Javascript/NodeJS, Typescript, Networking
+discord  • seira
+website  • Coming (soon..)
+
+repos    • 6
+npm      • 4
+```
